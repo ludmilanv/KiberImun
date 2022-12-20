@@ -20,4 +20,4 @@
 
 обмен сообщениями через сервис "Шина сообщений" надежно защищен от любого взлома
 
-
+![Image alt](https://github.com/ludmilanv/KiberImun/blob/Task2/task2.jpg)
